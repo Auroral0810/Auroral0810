@@ -11,6 +11,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     timeout-minutes: 10
     
     steps:
@@ -23,6 +25,14 @@ jobs:
             output/github-snake.svg
             output/github-snake-dark.svg?palette=github-dark
             
+      - name: Push to main branch
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add output/
+          git commit -m "Generate Snake Animation" || echo "No changes to commit"
+          git push origin main || echo "No changes to push"
+
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
