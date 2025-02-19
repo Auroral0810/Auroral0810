@@ -12,6 +12,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
     
     steps:
       - uses: actions/checkout@v2
@@ -19,7 +21,7 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: Auroral0810
+          github_user_name: Auroral0810  # 直接使用你的用户名
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
