@@ -111,9 +111,9 @@
 
 #### 📈 GitHub 统计
 <div align="center">
-    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Auroral0810&hide_border=true&show_icons=true&line_height=21&theme=nord" />
+    <img height="120px" src="https://github-readme-stats.vercel.app/api?username=Auroral0810&hide_border=true&show_icons=true&line_height=21&theme=nord" />
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="180px" src="https://streak-stats.demolab.com/?user=Auroral0810&theme=nord&hide_border=true" />
+    <img height="120px" src="https://streak-stats.demolab.com/?user=Auroral0810&theme=nord&hide_border=true" />
 </div>
 
 #### 🎨 活动统计
