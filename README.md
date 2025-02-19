@@ -23,18 +23,18 @@
 
 ## 🌟 活动图表 Activity Graph
 
-![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=Auroral0810&theme=vue)
+![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=Auroral0810&theme=vue)
 
 ## 🎨 3D 贡献图 3D Contribution
 
-![Contributions in 3D](./profile-3d-contrib/profile-night-rainbow.svg)
+![Contributions in 3D](profile-3d-contrib/profile-night-rainbow.svg)
 
 ## 🐍 贡献图 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="/output/github-snake.svg">
-  <img alt="github-snake" src="/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="output/github-snake.svg" />
+  <img alt="github-snake" src="output/github-snake.svg" />
 </picture>
 
 ## 📫 联系我 Contact Me
