@@ -25,6 +25,10 @@
 
 ![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=Auroral0810&theme=vue)
 
+## 🎨 3D 贡献图 3D Contribution
+
+![Contributions in 3D](./profile-3d-contrib/profile-night-rainbow.svg)
+
 ## 🐍 贡献图 Contribution Graph
 
 <picture>
