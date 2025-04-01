@@ -6,11 +6,12 @@
 
 这里是我的开源项目和技术探索的地方🤣
 
-- 🔭 我正在开发 [KeyMetrics](https://github.com/Auroral0810/KeyMetrics)
+- 🔭 我正在开发 [FishBlog](https://github.com/Auroral0810/FishBlog)
 - 🌱 正在学习 **SpringCloud** 微服务架构
 - 💬 擅长 **Java、Vue.js、mysql、nodejs** 技术栈
 - 📫 联系我：**15968588744@163.com**
 - ⚡ 有趣的事: 我热爱编程 ❤️ 和探索新技术
+- 😍 我的个人博客：[FishBlog](https://fishblog.yyf040810.cn)
 
 ### 🔗 社交链接
 <p align="left">
