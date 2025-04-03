@@ -6,7 +6,7 @@
 
 这里是我的开源项目和技术探索的地方🤣
 
-- 🔭 我正在开发 [FishBlog](https://github.com/Auroral0810/FishBlog)
+- 🔭 我正在开发 [FishPaste](https://github.com/Auroral0810/FishPaste)
 - 🌱 正在学习 **SpringCloud** 微服务架构
 - 💬 擅长 **Java、Vue.js、mysql、nodejs** 技术栈
 - 📫 联系我：**15968588744@163.com**
@@ -43,6 +43,8 @@
 - [big-event](https://github.com/Auroral0810/big-event) - 基于 SpringBoot 3 和 Vue 3 的新闻发布系统。采用前后端分离架构，整合了用户管理、文章管理、文件上传等核心功能。特色包括基于 Redis 的 Token 失效机制、阿里云 OSS 文件存储、Pinia 状态管理等现代化技术方案。
 
 - [ShenDaChatroom](https://github.com/Auroral0810/ShenDaChatroom) - 智能化实时聊天室应用，支持公聊私聊、多格式文件传输、聊天记录导出等基础功能。集成了 ChatGPT、通义千问等多个大语言模型，提供智能对话支持。实现了敏感词过滤、用户行为管理等安全功能，并通过 Nginx 实现外网访问。
+
+- [FishPaste](https://github.com/Auroral0810/FishPaste) - 功能强大的macOS智能剪贴板管理工具，采用Swift开发，提供无限历史记录、多种格式支持（文本/图片/文件）、自定义分类、智能列表等功能。具备批量复制粘贴、搜索功能、自定义快捷键、GPU图像加速、拖拽粘贴等特性，并支持应用排除规则和深色模式。独特的微交互设计和毛玻璃UI效果大幅提升用户体验，让复制粘贴流程更加高效流畅。
 
 [⏩ 查看更多项目](https://github.com/Auroral0810?tab=repositories)
 
