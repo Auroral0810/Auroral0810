@@ -2,7 +2,7 @@
   <img align="right" alt="编程GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="320" />
 </div>
 
-### 你好，我是俞云烽 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+### 你好，我是俞云烽 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 这里是我的开源项目和技术探索的地方🤣
 
@@ -15,11 +15,11 @@
 
 ### 🔗 社交链接
 <p align="left">
-<a href="https://blog.csdn.net/Luck_ff" target="blank"><img align="center" src="https://img.shields.io/badge/CSDN-博客-c32136?style=flat-square" alt="CSDN" /></a>
+<a href="https://blog.csdn.net/Luck_ff" target="blank"><img align="center" src="./assets/icons/CSDN-%E5%8D%9A%E5%AE%A2-c32136" alt="CSDN" /></a>
 &nbsp;
-<a href="mailto:15968588744@163.com"><img align="center" src="https://img.shields.io/badge/Email-邮箱-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:15968588744@163.com"><img align="center" src="./assets/icons/Email-%E9%82%AE%E7%AE%B1-blue" alt="Email" /></a>
 &nbsp;
-<a href="tencent://message/?uin=1957689514"><img align="center" src="https://img.shields.io/badge/QQ-联系我-green?style=flat-square&logo=tencentqq&logoColor=white" alt="QQ" /></a>
+<a href="tencent://message/?uin=1957689514"><img align="center" src="./assets/icons/QQ-%E8%81%94%E7%B3%BB%E6%88%91-green" alt="QQ" /></a>
 </p>
 
 ### ✨ 关于我
@@ -52,40 +52,81 @@
 
 
 ### 🛠️ 技术栈
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <p align="center">
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="./assets/icons/docker-docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    </a>
+    <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
+        <img src="./assets/icons/electron-electron-original.svg" alt="electron" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="./assets/icons/git-git-original.svg" alt="git" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="./assets/icons/html5-html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="./assets/icons/java-java-original.svg" alt="java" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="./assets/icons/javascript-javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="./assets/icons/mongodb-mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="./assets/icons/mysql-mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    </a>
+    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+        <img src="./assets/icons/nginx-nginx-original.svg" alt="nginx" width="40" height="40"/>
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="./assets/icons/nodejs-nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    </a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="./assets/icons/python-python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+    <a href="https://redis.io" target="_blank" rel="noreferrer">
+        <img src="./assets/icons/redis-redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+    </a>
+    <a href="https://spring.io/" target="_blank" rel="noreferrer">
+        <img src="./assets/icons/spring-spring-original.svg" alt="spring" width="40" height="40"/>
+    </a>
+    <a href="https://svelte.dev" target="_blank" rel="noreferrer">
+        <img src="./assets/icons/svelte-svelte-original.svg" alt="svelte" width="40" height="40"/>
+    </a>
+    <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+        <img src="./assets/icons/swift-swift-original.svg" alt="swift" width="40" height="40"/>
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="./assets/icons/typescript-typescript-original.svg" alt="typescript" width="40" height="40"/>
+    </a>
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+        <img src="./assets/icons/vuejs-vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+    </a>
 </p>
 
 
 ### 📊 数据统计
 
-<a href="https://github.com/Auroral0810">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Auroral0810&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-</a>
+#### 📈 GitHub 统计
+<div align="center">
+    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=Auroral0810&hide_border=true&show_icons=true&line_height=21&theme=nord" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=Auroral0810&theme=nord&hide_border=true" />
+</div>
 
-<br/>
 
-<a href="https://github.com/Auroral0810">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auroral0810&layout=compact&langs_count=7&theme=nord"/>
-</a>
+#### 🎨 活动统计
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Auroral0810&theme=nord&area=true&hide_border=true" width="100%" />
+</div>
 
 <br/>
 
@@ -93,7 +134,8 @@
 <summary><b>🎯 3D贡献图</b></summary>
 <div align="center">
     <a href="https://skyline.github.com/Auroral0810/2023" target="_blank">
-        <img src="https://raw.githubusercontent.com/Auroral0810/Auroral0810/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+        <img src="https://cdn.jsdelivr.net/gh/Auroral0810/Auroral0810/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
     </a>
+
 </div>
 </details>
