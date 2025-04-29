@@ -15,7 +15,7 @@
 
 ### 🔗 社交链接
 <p align="left">
-<a href="https://blog.csdn.net/Luck_ff" target="blank"><img align="center" src="https://img.shields.io/badge/CSDN-博客-c32136?style=for-the-badge&logo=c&logoColor=white" alt="CSDN" /></a>
+<a href="https://blog.csdn.net/Luck_ff" target="blank"><img align="center" src="https://img.shields.io/badge/CSDN-博客-c32136" alt="CSDN" /></a>
 &nbsp;
 <a href="mailto:15968588744@163.com"><img align="center" src="https://img.shields.io/badge/Email-邮箱-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 &nbsp;
@@ -54,7 +54,7 @@
 ### 🛠️ 技术栈
   <p align="center">
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
     </a>
     <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
@@ -117,7 +117,7 @@
 
 #### 📈 GitHub 统计
 <div align="center">
-    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=Auroral0810&hide_border=true&show_icons=true&line_height=21&theme=nord" />
+    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=Auroral0810&hide_border=true&show_icons=true&line_height=21&theme=nord&cache_seconds=1800" />
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=Auroral0810&theme=nord&hide_border=true" />
 </div>
