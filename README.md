@@ -15,12 +15,19 @@
 
 ### 🔗 社交链接
 <p align="left">
-<a href="https://blog.csdn.net/Luck_ff" target="blank"><img align="center" src="./assets/icons/CSDN-%E5%8D%9A%E5%AE%A2-c32136" alt="CSDN" /></a>
-&nbsp;
-<a href="mailto:15968588744@163.com"><img align="center" src="./assets/icons/Email-%E9%82%AE%E7%AE%B1-blue" alt="Email" /></a>
-&nbsp;
-<a href="tencent://message/?uin=1957689514"><img align="center" src="./assets/icons/QQ-%E8%81%94%E7%B3%BB%E6%88%91-green" alt="QQ" /></a>
+  <a href="https://blog.csdn.net/Luck_ff" target="_blank">
+    <img src="https://img.shields.io/badge/CSDN-博客-c32136?logo=csdn&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:15968588744@163.com">
+    <img src="https://img.shields.io/badge/Email-163-blue?logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="tencent://message/?uin=1957689514">
+    <img src="https://img.shields.io/badge/QQ-联系我-green?logo=tencentqq&logoColor=white" />
+  </a>
 </p>
+
 
 ### ✨ 关于我
 
@@ -52,65 +59,27 @@
 
 
 ### 🛠️ 技术栈
-  <p align="center">
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="./assets/icons/docker-docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    </a>
-    <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-        <img src="./assets/icons/electron-electron-original.svg" alt="electron" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="./assets/icons/git-git-original.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="./assets/icons/html5-html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="./assets/icons/java-java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="./assets/icons/javascript-javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="./assets/icons/mongodb-mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="./assets/icons/mysql-mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-        <img src="./assets/icons/nginx-nginx-original.svg" alt="nginx" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="./assets/icons/nodejs-nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="./assets/icons/python-python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer">
-        <img src="./assets/icons/redis-redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-    </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="./assets/icons/spring-spring-original.svg" alt="spring" width="40" height="40"/>
-    </a>
-    <a href="https://svelte.dev" target="_blank" rel="noreferrer">
-        <img src="./assets/icons/svelte-svelte-original.svg" alt="svelte" width="40" height="40"/>
-    </a>
-    <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-        <img src="./assets/icons/swift-swift-original.svg" alt="swift" width="40" height="40"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="./assets/icons/typescript-typescript-original.svg" alt="typescript" width="40" height="40"/>
-    </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="./assets/icons/vuejs-vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-    </a>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
 </p>
+
 
 
 ### 📊 数据统计
